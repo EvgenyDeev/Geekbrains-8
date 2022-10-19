@@ -1,0 +1,15 @@
+C:\Users\Евгений\Desktop\Geekbrains-8\Example_68\bin\Debug\net6.0\Example_68.exe
+C:\Users\Евгений\Desktop\Geekbrains-8\Example_68\bin\Debug\net6.0\Example_68.deps.json
+C:\Users\Евгений\Desktop\Geekbrains-8\Example_68\bin\Debug\net6.0\Example_68.runtimeconfig.json
+C:\Users\Евгений\Desktop\Geekbrains-8\Example_68\bin\Debug\net6.0\Example_68.dll
+C:\Users\Евгений\Desktop\Geekbrains-8\Example_68\bin\Debug\net6.0\Example_68.pdb
+C:\Users\Евгений\Desktop\Geekbrains-8\Example_68\obj\Debug\net6.0\Example_68.csproj.AssemblyReference.cache
+C:\Users\Евгений\Desktop\Geekbrains-8\Example_68\obj\Debug\net6.0\Example_68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Евгений\Desktop\Geekbrains-8\Example_68\obj\Debug\net6.0\Example_68.AssemblyInfoInputs.cache
+C:\Users\Евгений\Desktop\Geekbrains-8\Example_68\obj\Debug\net6.0\Example_68.AssemblyInfo.cs
+C:\Users\Евгений\Desktop\Geekbrains-8\Example_68\obj\Debug\net6.0\Example_68.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Desktop\Geekbrains-8\Example_68\obj\Debug\net6.0\Example_68.dll
+C:\Users\Евгений\Desktop\Geekbrains-8\Example_68\obj\Debug\net6.0\refint\Example_68.dll
+C:\Users\Евгений\Desktop\Geekbrains-8\Example_68\obj\Debug\net6.0\Example_68.pdb
+C:\Users\Евгений\Desktop\Geekbrains-8\Example_68\obj\Debug\net6.0\Example_68.genruntimeconfig.cache
+C:\Users\Евгений\Desktop\Geekbrains-8\Example_68\obj\Debug\net6.0\ref\Example_68.dll
